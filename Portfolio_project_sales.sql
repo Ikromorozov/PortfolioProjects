@@ -1,3 +1,5 @@
+--this sql provides insight into sales data
+
 select * 
 from portfolio..Worksheet
 order by 3
@@ -77,3 +79,4 @@ SELECT
 FROM portfolio.dbo.Worksheet
 GROUP BY [Ship Mode]
 ORDER BY AvgShippingDelay DESC;
+
