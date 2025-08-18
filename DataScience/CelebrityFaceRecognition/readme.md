@@ -21,3 +21,5 @@ Technologies used in this project,
 5. Jupyter notebook, visual studio code and pycharm as IDE
 6. Python flask for http server
 7. HTML/CSS/Javascript for UI
+
+demo website: http://ec2-13-60-55-141.eu-north-1.compute.amazonaws.com/
